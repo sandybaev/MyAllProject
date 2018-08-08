@@ -1,0 +1,11 @@
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\bin\Debug\ProjectWinForm.exe.config
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\bin\Debug\ProjectWinForm.exe
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\bin\Debug\ProjectWinForm.pdb
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\obj\Debug\ProjectWinForm.csprojAssemblyReference.cache
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\obj\Debug\ProjectWinForm.Form1.resources
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\obj\Debug\ProjectWinForm.Properties.Resources.resources
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\obj\Debug\ProjectWinForm.csproj.GenerateResource.cache
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\obj\Debug\ProjectWinForm.csproj.CoreCompileInputs.cache
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\obj\Debug\ProjectWinForm.exe
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\obj\Debug\ProjectWinForm.pdb
+G:\CSHARP\PROJECTS\AllProject\ProjectWinForm\bin\Debug\Entries.txt
